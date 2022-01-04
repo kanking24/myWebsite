@@ -2,6 +2,4 @@
 
 Some changes
 
-Edit on exampe branch
-
-Updating locally
+Updates made on master on GitHub before rebase
